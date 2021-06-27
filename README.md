@@ -41,8 +41,8 @@ By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,w
 
 -Comparing the Original Run Times to the Refactored Run Times
 
-**Run time for the original code took around .49 seconds.
-Run time for the refactored code took around .09 seconds,which means Refactoring the code did make the run times decrease by optimizing the code.** 
+**Run time for the original code took around 0.49 seconds.
+Run time for the refactored code took around 0.09 seconds,which means Refactoring the code did make the run times decrease by optimizing the code.** 
 
 -The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 -Formatting of data is done successfully.
