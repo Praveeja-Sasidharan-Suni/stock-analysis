@@ -24,14 +24,14 @@ Before refactoring the code, I began by copying the code that was needed to crea
 -DQ Analysis
 While analysing the yearly return of DQ shares for the year 2018,we could see that DQ has dropped over 63%.
 
-![png](Resources/DQ-Analysis)
+![png](Resources/DQ-Analysis.png)
 
 -Total Stocks Analysis
 By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,we could see that 
 *For the year 2017,Except TERP share ,all other shares have grown.
 *For the year 2018,except ENPH and RUN shares have shrunk.
-![png](Resources/Allstocks2017)
-![png](Resources/Allstocks2018)
+![png](Resources/Allstocks2017.png)
+![png](Resources/Allstocks2018.png)
 
 -While running the All Stocks Analysis file before refactoring,I have got the following results.
 ![png](Resources/Runtime-before-refactoring2017)
