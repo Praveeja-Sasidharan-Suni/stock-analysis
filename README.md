@@ -34,12 +34,12 @@ By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,w
 ![allstocks2018.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/allstocks2018.PNG?raw=true)
 
 -While running the All Stocks Analysis file before refactoring,I have got the following results.
-![png](Resources/Runtime-before-refactoring2017)
-![png](Resources/Runtime-before-refactoring2018)
+![Runtime-before-refactoring2017.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Runtime-before-refactoring2017.PNG?raw=true)
+![Runtime-before-refactoring2018.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Runtime-before-refactoring2018.PNG?raw=true)
 
 -The original code was now refactored to loop only once.I have defined a ticker variable and initialised to zero.Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerclosingPrices.I have got the following results.
-![png](Resources/VB_Challenge_2017)
-![png](Resources/VB_Challenge_2018)
+![VB_Challenge_2017.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/VB_Challenge_2017.PNG?raw=true)
+![VB_Challenge_2018.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/VB_Challenge_2018.PNG?raw=true)
 
 -Comparing the Original Run Times to the Refactored Run Times
 
@@ -48,12 +48,12 @@ Run time for the refactored code took around .09 seconds,which means Refactoring
 
 -The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 -Formatting of data is done successfully.
-![png](Resources/Formated-datasheet)
+![Formated-datasheet.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Formated-datasheet.PNG?raw=true)
 -Here is the change of code while refactoring is done.
 
-![png](Resources/Tickerindex&arrays)
+![Tickerindex&arrays.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Tickerindex&arrays.PNG?raw=true)
 
-![png](Resources/ticker-index-used)
+![ticker-index-used.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/ticker-index-used.PNG?raw=true)
 
 # Summary
 ## 1. What are the advantages or disadvantages of refactoring code?
