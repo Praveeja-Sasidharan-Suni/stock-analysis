@@ -24,7 +24,7 @@ Before refactoring the code, I began by copying the code that was needed to crea
 -DQ Analysis
 While analysing the yearly return of DQ shares for the year 2018,we could see that DQ has dropped over 63%.
 
-![png](Resources/DQ-Analysis.png)
+![DQ-Analysis.png](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/DQ-Analysis.PNG?raw=true)
 
 -Total Stocks Analysis
 By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,we could see that 
