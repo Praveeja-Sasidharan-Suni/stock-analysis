@@ -30,8 +30,8 @@ While analysing the yearly return of DQ shares for the year 2018,we could see th
 By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,we could see that 
 *For the year 2017,Except TERP share ,all other shares have grown.
 *For the year 2018,except ENPH and RUN shares have shrunk.
-![png](Resources/Allstocks2017.png)
-![png](Resources/Allstocks2018.png)
+![Allstocks2017.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Allstocks2017.PNG?raw=true)
+![allstocks2018.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/allstocks2018.PNG?raw=true)
 
 -While running the All Stocks Analysis file before refactoring,I have got the following results.
 ![png](Resources/Runtime-before-refactoring2017)
