@@ -12,14 +12,12 @@ Using run buttons, Steve will have the ability to put in the year into an input 
 
 Before refactoring the code, I began by copying the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring by,
 *Creating a tickerIndex variable and set it to zero*
-*
-.*
 *The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.*
 *The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.*
 *formatted the cells in the spreadsheet as required.*
 *Checked if the outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.*
 
-##Results
+## Results
 
 -DQ Analysis
 While analysing the yearly return of DQ shares for the year 2018,we could see that DQ has dropped over 63%.
@@ -44,14 +42,18 @@ By analysing the yearly returns of all the stocks for the years 2017 and 2018 ,w
 -Comparing the Original Run Times to the Refactored Run Times
 
 **Run time for the original code took around .49 seconds.
-Run time for the refactored code took around .09 seconds,which means Refactoring the code did make the run times decrease by optimizing the code. 
+Run time for the refactored code took around .09 seconds,which means Refactoring the code did make the run times decrease by optimizing the code.** 
 
 -The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 -Formatting of data is done successfully.
 ![Formated-datasheet.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Formated-datasheet.PNG?raw=true)
+
+
+
 -Here is the change of code while refactoring is done.
 
 ![Tickerindex&arrays.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/Tickerindex&arrays.PNG?raw=true)
+
 
 ![ticker-index-used.PNG](https://github.com/Praveeja-Sasidharan-Suni/stock-analysis/blob/main/Resources/ticker-index-used.PNG?raw=true)
 
